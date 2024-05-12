@@ -1,0 +1,5 @@
+__pycache__
+
+# generated files
+proto/metadata_pb2.py
+proto/metadata_pb2.pyi
