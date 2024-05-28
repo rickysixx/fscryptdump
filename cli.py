@@ -11,7 +11,7 @@ class CliArgs:
 
 def _setup_argparser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog='fscrypt dumper',
+        prog='fscryptdump',
         description='Dump directories encrypted with fscrypt',
     )
 
